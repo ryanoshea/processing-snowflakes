@@ -87,7 +87,7 @@ void drawGreeting() {
   text("Merry Christmas",screenX/2, screenY/2-100);
   fill(r2, g2, b2, alpha);
   textSize(50);
-  text("From the O'Shea Family!", screenX/2, screenY/2-35);
+  text("from Ryan & Dan", screenX/2, screenY/2-35);
  
  textFont(fontFooter);
  textAlign(RIGHT, BOTTOM);
